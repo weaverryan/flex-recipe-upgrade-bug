@@ -54,5 +54,8 @@
             "config/packages/routing.yaml",
             "config/routes.yaml"
         ]
+    },
+    "symfony/ux-chartjs": {
+        "version": "v2.8.1"
     }
 }
